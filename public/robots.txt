@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://virtechnologies.in/sitemap.xml
