@@ -1,0 +1,6 @@
+{
+  "name": "vir.ai",
+  "description": "Enterprise website for vir.ai focusing on emerging technologies, AI, and engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+  <defs>
+    <clipPath id="rounded">
+      <rect width="64" height="64" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <image
+    href="/logo.png"
+    width="64"
+    height="64"
+    clip-path="url(#rounded)"
+  />
+</svg>

@@ -1,0 +1,33 @@
+vir/
+├── assets/
+│   └── .aistudio/
+│       └── .gitignore
+├── src/
+│   ├── components/
+│   │   └── layout/
+│   │       ├── Footer.tsx
+│   │       ├── Layout.tsx
+│   │       └── Navbar.tsx
+│   ├── lib/
+│   │   ├── data.ts
+│   │   └── utils.ts
+│   ├── pages/
+│   │   ├── GenericPage.tsx
+│   │   ├── Home.tsx
+│   │   ├── Leadership.tsx
+│   │   └── LeadershipProfile.tsx
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── .env.example
+├── .gitignore
+├── e.py
+├── index.html
+├── metadata.json
+├── package-lock.json
+├── package.json
+├── plain.txt
+├── README.md
+├── s.py
+├── tsconfig.json
+└── vite.config.ts
