@@ -3,7 +3,7 @@ import ctoImg from "../assets/leadership/cto.jpg";
 import cooImg from "../assets/leadership/coo.jpg";
 import cfoImg from "../assets/leadership/cfo.jpg";
 import cmoImg from "../assets/leadership/cmo.jpg";
-import vpImg from "../assets/leadership/vp.jpg";
+import vpImg from "../assets/leadership/ceo.jpg";
 
 export const leadershipTeam = [
   {
@@ -62,14 +62,18 @@ export const leadershipTeam = [
     highlights: ["CMO for leading SaaS platform", "global campaigns", "Expert in category design"]
   },
   {
-    id: "vp",
-    name: "Poojan Sri Para",
-    role: "VP",
+    id: "chro",
+    name: "BhaghyaSri Joshi",
+    role: "Chief Human Resources Officer",
     image: vpImg,
-    bio: "Poojan Sri Para is the cognitive pioneer behind our autonomous AI agents and advanced machine learning infrastructure. As VP of Artificial Intelligence, Poojan governs our global data strategy and ethical AI initiatives.\n\nHis distinguished career includes tenure at premier research institutions and leading enterprise AI divisions. Poojan is deeply committed to building transparent, fair, and rigorously tested AI models that humanize technology while amplifying operational capability.",
-    linkedin: "https://www.linkedin.com/in/poojan-sri-para-56b780416",
-    email: "vp@virtechnologies.in",
-    quote: "Data has gravity. AI gives it velocity.",
-    highlights: ["AI Researcher", "Innovator in AI", "Architect of Vir's Agentic Core"]
+    bio: "BhaghyaSri Joshi is the organizational strategist behind our global talent acquisition and human resources infrastructure. As Chief Human Resources Officer, BhaghyaSri governs our workplace culture, data-driven people strategies, and ethical employee initiatives.\n\nHer distinguished career includes tenure at premier enterprise organizations and leading corporate HR divisions. BhaghyaSri is deeply committed to building transparent, fair, and rigorously supportive workplaces that humanize corporate culture while amplifying operational capability.",
+    linkedin: "https://www.linkedin.com/in/",
+    email: "chro@virtechnologies.in",
+    quote: "Culture has gravity. People give it velocity.",
+    highlights: [
+    "HR Strategist",
+    "Innovator in Culture",
+    "Architect of Vir's People Core"
+  ]
   }
 ];
