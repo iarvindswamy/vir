@@ -3,7 +3,7 @@ import ctoImg from "../assets/leadership/cto.jpg";
 import cooImg from "../assets/leadership/coo.jpg";
 import cfoImg from "../assets/leadership/cfo.jpg";
 import cmoImg from "../assets/leadership/cmo.jpg";
-import vpImg from "../assets/leadership/ceo.jpg";
+//import vpImg from "../assets/leadership/ceo.jpg";
 
 export const leadershipTeam = [
   {
@@ -65,7 +65,8 @@ export const leadershipTeam = [
     id: "chro",
     name: "BhaghyaSri Joshi",
     role: "Chief Human Resources Officer",
-    image: vpImg,
+    image: ceoImg,
+    //image: vpImg,
     bio: "BhaghyaSri Joshi is the organizational strategist behind our global talent acquisition and human resources infrastructure. As Chief Human Resources Officer, BhaghyaSri governs our workplace culture, data-driven people strategies, and ethical employee initiatives.\n\nHer distinguished career includes tenure at premier enterprise organizations and leading corporate HR divisions. BhaghyaSri is deeply committed to building transparent, fair, and rigorously supportive workplaces that humanize corporate culture while amplifying operational capability.",
     linkedin: "https://www.linkedin.com/in/",
     email: "chro@virtechnologies.in",
