@@ -8,11 +8,11 @@ import cmoImg from "../assets/leadership/cmo.jpg";
 export const leadershipTeam = [
   {
     id: "ceo",
-    name: "Aravindaswamy Gunturu",
+    name: "AS",
     role: "Chief Executive Officer & Founder",
     image: ceoImg,
     bio: "Aravindaswamy Gunturu is a visionary leader with experience in enterprise technology and artificial intelligence. He founded Vir Technologies with the mission to engineer the next generation of scalable, autonomous enterprise solutions. Before Vir, he held senior executive roles at leading global tech giants, spearheading the adoption of machine learning in Fortune 500 companies.\n\nAn active thought leader, Aravindaswamy frequently speaks on the disruptive implications of agentic AI and quantum computing. He holds a Ph.D. in Computer Science from the Massachusetts Institute of Technology.",
-    linkedin: "https://www.linkedin.com/in/iarvindswamy",
+    linkedin: "https://www.linkedin.com/",
     email: "ceo@virtechnologies.in",
     quote: "We don't just predict the future. We engineer it.",
     highlights: ["AI/ML engineer", "founded Vir Technologies", "interested in Agentic AI architectures"]
