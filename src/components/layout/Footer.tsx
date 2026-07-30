@@ -208,7 +208,7 @@ export function Footer() {
             </div>
 
             <div className="flex items-center gap-4 mt-8">
-              <a href="https://linkedin.com/virtechnologies" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center text-text-primary hover:text-electric-teal hover:border-electric-teal hover:bg-electric-teal/10 transition-all">
+              <a href="https://in.linkedin.com/company/vir-technologies" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center text-text-primary hover:text-electric-teal hover:border-electric-teal hover:bg-electric-teal/10 transition-all">
                 <Linkedin size={18} />
               </a>
               <a href="https://facebook.com/virtechnologies" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gray-300 flex items-center justify-center text-text-primary hover:text-electric-teal hover:border-electric-teal hover:bg-electric-teal/10 transition-all">
